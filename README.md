@@ -7,6 +7,8 @@ Anthropic's Claude models and an **Alpaca paper-trading account (no real money)*
 Built with [Claude Code](https://claude.com/claude-code) as the coding agent; I designed the rules,
 made the decisions and ran/tested the system.
 
+**Status (Oct 2026): paused since Oct 2** to focus on other projects. The paper account ended at $100,015 (from $100,000) with no open positions; too short a run to judge the approach.
+
 ## What it does
 Every weekday morning a scheduled job runs a team of AI agents per ticker:
 
